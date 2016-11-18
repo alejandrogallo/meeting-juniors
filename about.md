@@ -31,7 +31,7 @@ comment on non-scientific aspects as a social recreation.
   1. **Handle respectfully**: but do not be afraid of disrupting, contradicting
     and correcting. One of the reasons why contractors are encouraged to stay
     out of the meeting is that you can fuck up for good and still be socially
-    accepted by them, so that they will not fire you, as you deserve.
+    accepted by them, so that they will not fire you.
   1. **What happens inside the junior meeting**: stays in the junior meeting,
     as long as it is not scientific.
   1. **Feel free**: to propose topics and activities for the junior meeting,
