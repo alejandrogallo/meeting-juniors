@@ -42,7 +42,7 @@ comment on non-scientific aspects as a social recreation.
   1. **No unnecessary abstract talk**: try to reach to the people,
      and try to engage everyone into it, even if you have to go far into
     the basics to make everyone understand.
-  1. **Back to the roots**: very basics will be revisited, try not to be bored.
+  1. **Back to the roots**: very basics will be revisited, you have been warned.
   1. **No coming back**: if you decide to attend to a seminar, you can't leave
     until it finishes.
   1. **Carelessness**: if you are not interested in the topic or you find it trivial
