@@ -38,7 +38,16 @@ comment on non-scientific aspects as a social recreation.
     also to change or add rules.
   1. **Topicless**: any topic is good as long as  between the group members
      some clarity can be achieved on the topic.
-  1. **No ego**: leave your ego outside, I know it is difficult.
+  1. **Egoless**: leave your ego outside, I know it is difficult.
+  1. **No unnecessary abstract talk**: try to reach to the people,
+     and try to engage everyone into it, even if you have to go far into
+    the basics to make everyone understand.
+  1. **Back to the roots**: very basics will be revisited, try not to be bored.
+  1. **No coming back**: if you decide to attend to a seminar, you can't leave
+    until it finishes.
+  1. **Carelessness**: if you are not interested in the topic or you find it trivial
+    you should still try to educate others or to let yourself be educated.
+    If you don't care, this is not the place for you.
 
 
 ## Target
@@ -51,7 +60,8 @@ There are many targets of such a project.
   1. **Collaboration**: through discussion we may find out ways in which
     to collaborate scientifically in the constant hurdles that we find in our
     daily research.
- 1. **Improve**: our understanding, daily life by reaching 
+ 1. **Improve**: our understanding. We can also improve our daily life
+    easing scientific conversation in a relaxed environment.
 
 ## Blog usage
 
@@ -61,7 +71,7 @@ of the blog is also pretty much open, however a blog structure is clean and
 easily followed. Contributing is also as easy as pushing to a github
 repository.
 
-This blog is intended as a post meeting resource. There will be no workload
+This blog is intended as a post-meeting resource. There will be no workload
 to ensure that the participation barrier stays low.
 
 It is very welcomed, if someone decides after a meeting
@@ -69,7 +79,12 @@ It is very welcomed, if someone decides after a meeting
   -  to sum-up what was discussed.
   -  to enhance the discussion with some relevant and detailed information.
   -  to post related links.
+  -  etc...
 
+
+## TL;DR
+
+Come and see for yourself.
 
 
 <!--vim: spell spelllang=en -->
